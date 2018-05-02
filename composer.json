@@ -1,7 +1,7 @@
 {
-    "name": "muplugin/asse-action-reveal-post-id",
+    "name": "axelspringer/axelspringer-action-reveal-post-id",
     "type": "wordpress-muplugin",
-    "description": "asse action reveal post id",
+    "description": "axlespringer action reveal post id",
     "keywords": [
         "wordpress",
         "muplugin"
@@ -12,9 +12,9 @@
             "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-action-reveal-post-id/browse",
+    "homepage": "https://github.com/axelspringer/wp-mu-action-reveal-post-id",
     "license": "proprietary",
     "extra": {
-        "installer-name": "asse-action-reveal-post-id"
+        "installer-name": "wp-mu-action-reveal-post-id"
     }
 }
