@@ -13,7 +13,7 @@
         }
     ],
     "homepage": "https://github.com/axelspringer/wp-mu-action-reveal-post-id",
-    "license": "proprietary",
+    "license": "Apache-2.0",
     "extra": {
         "installer-name": "wp-mu-action-reveal-post-id"
     }
