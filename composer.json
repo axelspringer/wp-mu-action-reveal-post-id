@@ -1,5 +1,5 @@
 {
-    "name": "axelspringer/axelspringer-action-reveal-post-id",
+    "name": "axelspringer/wp-mu-action-reveal-post-id",
     "type": "wordpress-muplugin",
     "description": "axlespringer action reveal post id",
     "keywords": [
